@@ -1,0 +1,97 @@
+.department {
+    position: relative;
+    width: 320px;
+    height: 288px;
+    color: #ffffff;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 16px;
+    text-shadow: 1px 1px 1px #000;
+    overflow: hidden;
+}
+
+.department::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 12px;
+    background-size: cover;
+    object-fit: cover;
+    background-position: center;
+    filter: brightness(80%);
+    z-index: -1;
+}
+
+/* Backgrounds Images Departments */
+.BO::before {
+    background-image: url('../../public/images/boaco.jpg');
+}
+
+.CA::before {
+    background-image: url('../../public/images/carazo.jpg');
+}
+
+.CH::before {
+    background-image: url('../../public/images/chinandega.jpg');
+}
+
+.CT::before {
+    background-image: url('../../public/images/chontales.jpg');
+}
+
+.ES::before {
+    background-image: url('../../public/images/esteli.jpg');
+}
+
+.GR::before {
+    background-image: url('../../public/images/granada.jpg');
+}
+
+.JI::before {
+    background-image: url('../../public/images/jinotega.jpg');
+}
+
+.LE::before {
+    background-image: url('../../public/images/leon.jpg');
+}
+
+.MZ::before {
+    background-image: url('../../public/images/madriz.jpg');
+}
+
+.MA::before {
+    background-image: url('../../public/images/managua.jpg');
+}
+
+.MY::before {
+    background-image: url('../../public/images/masaya.jpg');
+}
+
+.MT::before {
+    background-image: url('../../public/images/matagalpa.jpg');
+}
+
+.NS::before {
+    background-image: url('../../public/images/nueva-segovia.jpg');
+}
+
+.RN::before {
+    background-image: url('../../public/images/raccn.jpg');
+}
+
+.RS::before {
+    background-image: url('../../public/images/raccs.jpg');
+}
+
+.RJ::before {
+    background-image: url('../../public/images/rio-san-juan.jpg');
+}
+
+.RI::before {
+    background-image: url('../../public/images/rivas.jpg');
+}
