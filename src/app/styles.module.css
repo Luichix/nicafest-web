@@ -1,3 +1,16 @@
+/* grid view */
+
+.gridView {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-template-rows: repeat(auto-fit, minmax(288px, 1fr));
+    grid-gap: 2rem;
+    align-content: center;
+    justify-items: center;
+}
+
+/* box department */
+
 .department {
     position: relative;
     width: 320px;

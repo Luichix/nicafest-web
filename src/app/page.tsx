@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import Link from 'next/link'
-import backgrounds from './deparments.module.css'
+import styles from './styles.module.css'
 import classNames from 'classnames';
 
 const departments = [
@@ -129,21 +129,27 @@ const departments = [
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center px-20">
+    <main className="flex min-h-screen flex-col items-center px-20  ">
       {/* Introducción */}
 
       {/* ... Agrega el resto del contenido aquí ... */}
 
       <section className='w-full px-20 pb-20'>
-        <div className='text-center p-20'>
-        <h2 className='text-center font-bold text-2xl text-gray-800'>Explora nuestras tradiciones culturales y festividades regionales</h2>
+        <div className='text-center p-20 text-gray-700 text-lg'>
+        <h2 className='text-center font-bold text-3xl '>Explora nuestras tradiciones culturales y festividades regionales</h2>
         <p>Bienvenido a nuestro sitio dedicado a las celebraciones festivas de Nicaragua.</p>
         <p>Sumérgete en la riqueza cultural y las tradiciones de nuestro país a medida que exploras nuestros días festivos y festividades regionales únicas.</p>
         </div>
-        <ul className='grid justify-items-center grid-cols-4 gap-8'>
+        <div>
+
+        </div>
+        <ul className={styles.gridView}>
           {departments.map(({ id, name, climate, municipalities, abbreviation }, index) => (
-            <li key={index} className={classNames(backgrounds.department,backgrounds[abbreviation])}>
+            <li key={index} className={classNames(styles.department,styles[abbreviation])}>
+              <div className='flex justify-between'>
               <span className='underline decoration-2 underline-offset-4'>{id}</span>
+              <span>{abbreviation}</span>
+              </div>
               <Link className='self-center' href={`/departamento/`}>
                 <span className='text-center text-3xl'>{name}</span>
               </Link>
