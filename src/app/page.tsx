@@ -129,29 +129,24 @@ const departments = [
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center px-20  ">
-      {/* Introducción */}
+    <main className="flex min-h-screen flex-col items-center xl:px-20  ">
+      
 
-      {/* ... Agrega el resto del contenido aquí ... */}
-
-      <section className='w-full px-20 pb-20'>
-        <div className='text-center p-20 text-gray-700 text-lg'>
-        <h2 className='text-center font-bold text-3xl '>Explora nuestras tradiciones culturales y festividades regionales</h2>
-        <p>Bienvenido a nuestro sitio dedicado a las celebraciones festivas de Nicaragua.</p>
-        <p>Sumérgete en la riqueza cultural y las tradiciones de nuestro país a medida que exploras nuestros días festivos y festividades regionales únicas.</p>
-        </div>
-        <div>
-
+      <section className='pb-10 px-4 w-full  lg:px-10 xl:px-20 xl:pb-20'>
+        <div className='p-4 text-sm md:p-8 md:text-base text-center lg:p-20 text-gray-700 lg:text-lg'>
+          <h2 className='text-md text-center font-bold md:text-xl lg:text-3xl '>Explora nuestras tradiciones culturales y festividades regionales</h2>
+          <p className='hidden lg:block'>Descubre Nicaragua: Departamentos y Festividades</p>
+          <p>Sumérgete en la riqueza cultural y las tradiciones de nuestro país a medida que exploras nuestros días festivos y festividades regionales únicas.</p>
         </div>
         <ul className={styles.gridView}>
           {departments.map(({ id, name, climate, municipalities, abbreviation }, index) => (
-            <li key={index} className={classNames(styles.department,styles[abbreviation])}>
+            <li key={index} className={classNames(styles.department, styles[abbreviation])}>
               <div className='flex justify-between'>
-              <span className='underline decoration-2 underline-offset-4'>{id}</span>
-              <span>{abbreviation}</span>
+                <span className='underline decoration-2 underline-offset-4'>{id}</span>
+                <span>{abbreviation}</span>
               </div>
-              <Link className='self-center' href={`/departamento/`}>
-                <span className='text-center text-3xl'>{name}</span>
+              <Link className='self-center' href={`/`}>
+                <span className='text-center text-lg md:text-2xl lg:text-3xl'>{name}</span>
               </Link>
               <div className='flex justify-between'>
                 <span className="icono-clima">{climate}</span>

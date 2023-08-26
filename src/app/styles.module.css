@@ -1,9 +1,8 @@
 /* grid view */
-
 .gridView {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-    grid-template-rows: repeat(auto-fit, minmax(288px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    grid-template-rows: repeat(auto-fit, minmax(240px, 1fr));
     grid-gap: 2rem;
     align-content: center;
     justify-items: center;
@@ -13,8 +12,8 @@
 
 .department {
     position: relative;
-    width: 320px;
-    height: 288px;
+    width: 260px;
+    height: 248px;
     color: #ffffff;
     font-weight: bold;
     display: flex;
@@ -39,6 +38,22 @@
     filter: brightness(80%);
     z-index: -1;
 }
+
+/* medias queries */
+
+@media (min-width: 768px) {
+    .gridView {
+        grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+        grid-template-rows: repeat(auto-fit, minmax(288px, 1fr));
+    }
+
+    .department {
+        width: 320px;
+        height: 288px;
+    }
+
+}
+
 
 /* Backgrounds Images Departments */
 .BO::before {

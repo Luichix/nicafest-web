@@ -1,17 +1,15 @@
 /*  background header */
-
-
 .backgroundHeader {
     width: 100%;
-    display: flex; 
+    display: flex;
     flex-direction: row;
-    padding: 80px 80px;
     position: relative;
-    height: 520px;
     color: #ffffff;
     font-weight: bold;
     text-shadow: 1px 1px 1px #000;
     overflow: hidden;
+    height: 200px;
+    padding:24px 20px;
 }
 
 .backgroundHeader::before {
@@ -29,9 +27,7 @@
     background-image: url('../../public/images/ometepe.jpg');
 }
 
-
 /* custom shape */
-
 .customShape {
     position: absolute;
     bottom: 0;
@@ -46,30 +42,27 @@
     position: relative;
     display: block;
     width: calc(100% + 1.3px);
-    height: 150px;
+    height: 60px;
 }
 
 .customShape .shapeFill {
     fill: #FFFFFF;
 }
 
-
 /* Background Footer */
-
-
-.backgroundFooter{
+.backgroundFooter {
     width: 100%;
     position: relative;
-    display: flex; 
+    display: flex;
     flex-direction: column;
-    padding: 120px 80px 0 80px;
     color: #ffffff;
     overflow: hidden;
     height: 200px;
     text-shadow: 1px 1px 1px #000;
+    padding: 80px 10px;
 }
 
-.backgroundFooter::before{
+.backgroundFooter::before {
     content: "";
     position: absolute;
     top: 0;
@@ -83,8 +76,6 @@
     z-index: -1;
     background-image: url('../../public/images/corn-island.jpg');
 }
-
-
 
 /* shape divider */
 .shapeDivider {
@@ -100,9 +91,54 @@
     position: relative;
     display: block;
     width: calc(300% + 1.3px);
-    height: 101px;
+    height: 60px;
 }
 
 .shapeDivider .shapeFill {
     fill: #FFFFFF;
 }
+
+/* Screen 1024px Lg */
+@media (min-width: 1024px) {
+
+    .backgroundHeader {
+        padding: 80px 80px;
+        height: 520px;
+
+    }
+
+    .customShape svg {
+        height: 150px;
+    }
+    
+
+    .backgroundFooter {
+        padding: 120px 80px 0 80px;
+
+    }
+
+    .shapeDivider svg {
+        height: 101px;
+    }
+    
+}
+
+/* 
+   screens: {
+        'sm': '640px',
+        // => @media (min-width: 640px) { ... }
+  
+        'md': '768px',
+        // => @media (min-width: 768px) { ... }
+  
+        'lg': '1024px',
+        // => @media (min-width: 1024px) { ... }
+  
+        'xl': '1280px',
+        // => @media (min-width: 1280px) { ... }
+  
+        '2xl': '1536px',
+        // => @media (min-width: 1536px) { ... }
+      }
+    }
+  } */
