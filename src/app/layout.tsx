@@ -38,7 +38,7 @@ export default function RootLayout({
           <nav className='hidden  lg:pt-4 lg:block lg:relative  flex-grow xl:pt-8 xl:text-lg'>
             <ul className='flex gap-10 justify-self-end justify-end'>
               <li><Link href="/">Inicio</Link></li>
-              <li><Link href="/">Nacionales</Link></li>
+              <li><Link href="/festividades">Festividades</Link></li>
               <li><Link href="/">Regionales</Link></li>
             </ul>
           </nav>

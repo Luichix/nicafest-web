@@ -129,7 +129,7 @@ const departments = [
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center xl:px-20  ">
+    <main className=" flex min-h-screen flex-col items-center xl:px-20  ">
       
 
       <section className='pb-10 px-4 w-full  lg:px-10 xl:px-20 xl:pb-20'>

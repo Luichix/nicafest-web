@@ -1,0 +1,1337 @@
+    [
+        {
+            "id": 1,
+            "fechaInicio": "2023-01-05",
+            "celebracion": "EL SEÑOR DE LOS MILAGROS",
+            "descripcion": "",
+            "regiones": ["Chinandega"],
+            "feriado": false
+        },
+        {
+            "id": 2,
+            "fechaInicio": "2023-01-06",
+            "celebracion": "DÍA DE REYES",
+            "descripcion": "",
+            "regiones": [],
+            "feriado": false
+        },
+        {
+            "id": 3,
+            "fechaInicio": "2023-01-07",
+            "celebracion": "EL SEÑOR DE ESQUIPULAS",
+            "descripcion": "",
+            "regiones": [],
+            "feriado": false
+        },
+        {
+            "id": 4,
+            "fechaInicio": "2023-01-07",
+            "celebracion": "VIRGEN DEL ROSARIO",
+            "descripcion": "",
+            "regiones": [],
+            "feriado": false
+        },
+        {
+            "id": 5,
+            "fechaInicio": "2023-01-11",
+            "celebracion": "SEÑOR DE ESQUIPULAS",
+            "descripcion": "",
+            "regiones": [],
+            "feriado": false
+        },
+        {
+            "id": 6,
+            "fechaInicio": "2023-01-12",
+            "celebracion": "SAN SEBASTIÁN",
+            "descripcion": "",
+            "regiones": [],
+            "feriado": false
+        },
+        {
+            "id": 7,
+            "fechaInicio": "2023-01-13",
+            "celebracion": "EL SEÑOR DE ESQUIPULAS",
+            "descripcion": "",
+            "regiones": [],
+            "feriado": false
+        },
+        {
+            "id": 8,
+            "fechaInicio": "2023-01-14",
+            "celebracion": "INICIAN LAS FIESTAS DEL SEÑOR DE ESQUIPULAS",
+            "descripcion": "",
+            "regiones": [],
+            "feriado": false
+        },
+        {
+            "id": 9,
+            "fechaInicio": "2023-01-15",
+            "celebracion": "SEÑOR DE LOS MILAGROS DE ESQUIPULAS",
+            "descripcion": "",
+            "regiones": [],
+            "feriado": false
+        },
+        {
+            "id": 10,
+            "fechaInicio": "2023-01-15",
+            "celebracion": "DÍA PRINCIPAL DEL SEÑOR DE ESQUIPULAS",
+            "descripcion": "",
+            "regiones": [],
+            "feriado": false
+        },
+        {
+            "id": 11,
+            "fechaInicio": "2023-01-17",
+            "celebracion": "JESÚS DE LA BUENA MUERTE",
+            "descripcion": "",
+            "regiones": [],
+            "feriado": false
+        },
+        {
+            "id": 12,
+            "fechaInicio": "2023-01-17",
+            "celebracion": "SAN ANTONIO",
+            "descripcion": "",
+            "regiones": [],
+            "feriado": false
+        },
+        {
+            "id": 13,
+            "fechaInicio": "2023-01-19",
+            "celebracion": "TOPE EN DOLORES EN HONOR A SAN SEBASTIÁN",
+            "descripcion": "",
+            "regiones": [],
+            "feriado": false
+        },
+        {
+            "id": 14,
+            "fechaInicio": "2023-01-20",
+            "celebracion": "SAN SEBASTIÁN",
+            "descripcion": "",
+            "regiones": [],
+            "feriado": false
+        },
+        {
+            "id": 15,
+            "fechaInicio": "2023-01-22",
+            "celebracion": "DIVINO ROSTRO",
+            "descripcion": "",
+            "regiones": [],
+            "feriado": false
+        },
+        {
+            "id": 16,
+            "fechaInicio": "2023-01-24",
+            "celebracion": "VIRGEN DE LA PAZ",
+            "descripcion": "",
+            "regiones": [],
+            "feriado": false
+        },
+        {
+            "id": 17,
+            "fechaInicio": "2023-01-29",
+            "celebracion": "SANTA TERESA",
+            "descripcion": "",
+            "regiones": [],
+            "feriado": false
+        },
+        {
+            "id": 18,
+            "fechaInicio": "2023-02-01",
+            "celebracion": "FESTIVIDAD DE JESÚS DE LA CARIDAD",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 19,
+            "fechaInicio": "2023-02-02",
+            "celebracion": "VIRGEN DE LA CANDELARIA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 20,
+            "fechaInicio": "2023-02-03",
+            "celebracion": "SAN BLAS",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 21,
+            "fechaInicio": "2023-02-05",
+            "celebracion": "VIRGEN DE CANDELARIA Y VIRGEN DE LOS PELIGROS",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 22,
+            "fechaInicio": "2023-02-08",
+            "celebracion": "VIRGEN DE CANDELARIA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 23,
+            "fechaInicio": "2023-02-08",
+            "fechaFin": "2023-02-09",
+            "celebracion": "FIESTAS PATRONALES DE LA VIRGEN DE MONSERRAT",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 24,
+            "fechaInicio": "2023-02-09",
+            "fechaFin": "2023-02-11",
+            "celebracion": "SAN CARALAMPIO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 25,
+            "fechaInicio": "2023-02-16",
+            "celebracion": "LA VIRGEN DE LOS REMEDIOS",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 26,
+            "fechaInicio": "2023-02-20",
+            "celebracion": "CONCLUSIÓN DE LA FIESTA PATRONAL EN HONOR A LA VIRGEN DE LA PAZ",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 27,
+            "fechaInicio": "2023-03-03",
+            "fechaFin": "2023-03-05",
+            "celebracion": "PROCESIÓN DE LA IMAGEN CRISTO AGONIZANTE",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 28,
+            "fechaInicio": "2023-03-08",
+            "celebracion": "SANTA TERESITA DE JESÚS",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 29,
+            "fechaInicio": "2023-03-08",
+            "fechaFin": "2023-03-14",
+            "celebracion": "SAN MIGUEL",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 30,
+            "fechaInicio": "2023-03-09",
+            "fechaFin": "2023-03-10",
+            "celebracion": "VIRGEN DE MARÍA AUXILIADORA Y EL SEÑOR DE LOS MILAGROS",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 31,
+            "fechaInicio": "2023-03-12",
+            "celebracion": "FIESTAS PATRONALES DE SAN GREGORIO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 32,
+            "fechaInicio": "2023-03-16",
+            "celebracion": "VIRGEN DE LA ASUNCIÓN",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 33,
+            "fechaInicio": "2023-03-19",
+            "celebracion": "SAN JOSÉ",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 34,
+            "fechaInicio": "2023-03-19",
+            "fechaFin": "2023-03-20",
+            "celebracion": "SAN JOSÉ",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 35,
+            "fechaInicio": "2023-03-24",
+            "celebracion": "NUESTRO AMOR REDENTOR",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 36,
+            "fechaInicio": "2023-03-24",
+            "celebracion": "SALIDA DE CARRETAS PEREGRINAS AL SANTUARIO DE JESÚS DEL RESCATE EN POPOYUAPA, DEPARTAMENTO DE RIVAS.",
+            "regiones": ["Rivas"],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 37,
+            "fechaInicio": "2023-03-25",
+            "celebracion": "DOMINGO DE LÁZARO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 38,
+            "fechaInicio": "2023-03-25",
+            "celebracion": "KING PULANKA, JUEGO ANCESTRAL MISKITO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 39,
+            "fechaInicio": "2023-04-02",
+            "celebracion": "DOMINGO DE RAMOS JESÚS DEL TRIUNFO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 40,
+            "fechaInicio": "2023-04-03",
+            "celebracion": "LUNES SANTO SAN BENITO DE PALERMO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 41,
+            "fechaInicio": "2023-04-04",
+            "celebracion": "MARTES SANTO VÍA CRUCIS DEL LAGO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 42,
+            "fechaInicio": "2023-04-05",
+            "celebracion": "MIÉRCOLES SANTO HUERTOS DEL SEÑOR",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 43,
+            "fechaInicio": "2023-04-06",
+            "celebracion": "JUEVES SANTO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 44,
+            "fechaInicio": "2023-04-07",
+            "celebracion": "VIERNES SANTO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 45,
+            "fechaInicio": "2023-04-08",
+            "celebracion": "SÁBADO DE GLORIA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 46,
+            "fechaInicio": "2023-04-09",
+            "celebracion": "DOMINGO DE RESURRECCIÓN",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 47,
+            "fechaInicio": "2023-04-19",
+            "celebracion": "SAN MARTÍN DE PORRES, SAN EXPEDITO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 48,
+            "fechaInicio": "2023-04-20",
+            "celebracion": "FIESTAS PATRONALES EN HONOR A CRISTO REY",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 49,
+            "fechaInicio": "2023-04-22",
+            "celebracion": "SAN JORGE",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 50,
+            "fechaInicio": "2023-04-23",
+            "celebracion": "VIRGEN DE FÁTIMA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 51,
+            "fechaInicio": "2023-04-25",
+            "celebracion": "SAN BENITO DE PALERMO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 52,
+            "fechaInicio": "2023-04-25",
+            "celebracion": "SAN MARCOS",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 53,
+            "fechaInicio": "2023-04-26",
+            "celebracion": "VIRGEN DE LOS DESAMPARADOS",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 54,
+            "fechaInicio": "2023-04-27",
+            "celebracion": "ÚLTIMA SEMANA DEL MES SAN JOSÉ OBRERO.",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 55,
+            "fechaInicio": "2023-04-27",
+            "celebracion": "FERIA GASTRONÓMICA DEL MAR",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 56,
+            "fechaInicio": "2023-04-27",
+            "celebracion": "SEGUNDO FIN DE SEMANA SAN EXPEDITO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 57,
+            "fechaInicio": "2023-04-27",
+            "celebracion": "CRISTO REY",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 58,
+            "fechaInicio": "2023-05-01",
+            "celebracion": "FIESTAS PATRONALES A LA SANTA CRUZ",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 59,
+            "fechaInicio": "2023-05-03",
+            "celebracion": "DÍA DE LA SANTA CRUZ",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 60,
+            "fechaInicio": "2023-05-08",
+            "celebracion": "PEREGRINACIÓN AL SANTUARIO DE LA VIRGEN DE CUAPA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 61,
+            "fechaInicio": "2023-05-10",
+            "fechaFin": "2023-05-11",
+            "celebracion": "VIRGEN DE LA LUZ",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 62,
+            "fechaInicio": "2023-05-10",
+            "celebracion": "VIRGEN DE LA LUZ",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 63,
+            "fechaInicio": "2023-05-10",
+            "celebracion": "VIRGEN DE LOS DESAMPARADOS",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 64,
+            "fechaInicio": "2023-05-13",
+            "celebracion": "FIESTAS PATRONALES A LA VIRGEN DE FÁTIMA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 65,
+            "fechaInicio": "2023-05-14",
+            "celebracion": "SAN ISIDRO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 66,
+            "fechaInicio": "2023-05-14",
+            "celebracion": "SEGUNDO DOMINGO DEL MES NUESTRA SEÑORA DE LOS DESAMPARADOS",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 67,
+            "fechaInicio": "2023-05-15",
+            "celebracion": "SAN ISIDRO LABRADOR",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 68,
+            "fechaInicio": "2023-05-15",
+            "celebracion": "FIESTAS DEL PALO DE MAYO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 69,
+            "fechaInicio": "2023-05-15",
+            "fechaFin": "2023-05-20",
+            "celebracion": "SANTA MARÍA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 70,
+            "fechaInicio": "2023-05-17",
+            "celebracion": "SAN PASCUAL BAILÓN",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 71,
+            "fechaInicio": "2023-05-22",
+            "celebracion": "SANTA RITA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 72,
+            "fechaInicio": "2023-05-23",
+            "celebracion": "SANTÍSIMA TRINIDAD",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 73,
+            "fechaInicio": "2023-05-24",
+            "celebracion": "MARÍA AUXILIADORA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 74,
+            "fechaInicio": "2023-05-25",
+            "celebracion": "SAN ISIDRO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 75,
+            "fechaInicio": "2023-05-27",
+            "celebracion": "VIRGEN DE LA CRUZ",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 76,
+            "fechaInicio": "2023-05-27",
+            "fechaFin": "2023-05-30",
+            "celebracion": "FIESTAS PATRONALES EN LA TRINIDAD, DIRIAMBA, CARAZO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 77,
+            "fechaInicio": "2023-05-30",
+            "celebracion": "SAN FERNANDO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 78,
+            "fechaInicio": "2023-06-01",
+            "celebracion": "PRIMER DOMINGO DEL MES DOMINGO DE TRINIDAD",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 79,
+            "fechaInicio": "2023-06-01",
+            "celebracion": "LA SANTÍSIMA TRINIDAD",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 80,
+            "fechaInicio": "2023-06-13",
+            "celebracion": "SAN ANTONIO DE PADUA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 81,
+            "fechaInicio": "2023-06-13",
+            "celebracion": "SEGUNDA SEMANA ENTRADA DE LOS CORAZONES DE JESÚS",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 82,
+            "fechaInicio": "2023-06-24",
+            "celebracion": "FIESTAS DE SAN JUAN BAUTISTA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 83,
+            "fechaInicio": "2023-06-24",
+            "celebracion": "SANTIAGUITO DE SÉBACO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 84,
+            "fechaInicio": "2023-06-26",
+            "celebracion": "SAN PEDRO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 85,
+            "fechaInicio": "2023-06-27",
+            "celebracion": "VIRGEN DEL PERPETUO SOCORRO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 86,
+            "fechaInicio": "2023-06-27",
+            "celebracion": "VIRGEN DEL TRONO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 87,
+            "fechaInicio": "2023-06-29",
+            "celebracion": "SAN PEDRO Y SAN PABLO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 88,
+            "fechaInicio": "2023-06-29",
+            "celebracion": "SAN PEDRO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 89,
+            "fechaInicio": "2023-06-29",
+            "celebracion": "SANTIAGO EL MENOR SALIDA DE LA DEMANDA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 90,
+            "fechaInicio": "2023-07-03",
+            "celebracion": "SANTA ANA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 91,
+            "fechaInicio": "2023-07-06",
+            "celebracion": "PROSIGUE LA DEMANDA DE SANTIAGO EL MENOR",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 92,
+            "fechaInicio": "2023-07-12",
+            "celebracion": "ENTRADA DE LA DEMANDA DE SANTIAGO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 93,
+            "fechaInicio": "2023-07-14",
+            "celebracion": "LICENCIA DE SANTA ANA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 94,
+            "fechaInicio": "2023-07-16",
+            "celebracion": "BAJADA DEL PATRÓN SANTIAGO DE SU ALTAR E INICIO DEL NOVENARIO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 95,
+            "fechaInicio": "2023-07-16",
+            "celebracion": "VIRGEN DEL CARMEN",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 96,
+            "fechaInicio": "2023-07-20",
+            "celebracion": "SANTIAGO APÓSTOL",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 97,
+            "fechaInicio": "2023-07-22",
+            "celebracion": "DEMANDA DE SANTIAGUITO POR LA CIUDAD DE JINOTEPE",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 98,
+            "fechaInicio": "2023-07-22",
+            "celebracion": "INVESTIDURA DE LOS BAILANTES DE SANTIAGO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 99,
+            "fechaInicio": "2023-07-24",
+            "celebracion": "TRADICIONAL TOPE O ENCUENTRO DE LAS IMÁGENES",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 100,
+            "fechaInicio": "2023-07-25",
+            "celebracion": "SANTIAGO APÓSTOL",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 101,
+            "fechaInicio": "2023-07-26",
+            "celebracion": "SANTA ANA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 102,
+            "fechaInicio": "2023-07-31",
+            "celebracion": "VELA DE SANTO DOMINGO DE GUZMÁN",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 103,
+            "fechaInicio": "2023-08-01",
+            "fechaFin": "2023-08-10",
+            "celebracion": "PIMERO SANTO DOMINGO DE GUZMÁN",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 104,
+            "fechaInicio": "2023-08-02",
+            "celebracion": "VIRGEN DE LOS ÁNGELES",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 105,
+            "fechaInicio": "2023-08-04",
+            "celebracion": "SANTO DOMINGO DE GUZMÁN",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 106,
+            "fechaInicio": "2023-08-04",
+            "celebracion": "FIESTAS EN HONOR A LA VIRGEN DE LA PIEDRA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 107,
+            "fechaInicio": "2023-08-07",
+            "celebracion": "SANTO DOMINGO DE ABAJO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 108,
+            "fechaInicio": "2023-08-09",
+            "celebracion": "SIHKRU TARA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 109,
+            "fechaInicio": "2023-08-10",
+            "celebracion": "SAN LORENZO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 110,
+            "fechaInicio": "2023-08-11",
+            "celebracion": "PROCESIÓN DE SANTO DOMINGO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 111,
+            "fechaInicio": "2023-08-14",
+            "celebracion": "GRITERÍA CHIQUITA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 112,
+            "fechaInicio": "2023-08-15",
+            "celebracion": "VIRGEN DE LA ASUNCIÓN",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 113,
+            "fechaInicio": "2023-08-16",
+            "celebracion": "SAN ROQUE",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 114,
+            "fechaInicio": "2023-08-17",
+            "celebracion": "SAN ROQUE",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 115,
+            "fechaInicio": "2023-08-24",
+            "celebracion": "SAN BARTOLO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 116,
+            "fechaInicio": "2023-08-27",
+            "celebracion": "FIESTA DEL CANGREJO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 117,
+            "fechaInicio": "2023-08-30",
+            "celebracion": "SANTA ROSA DE LIMA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 118,
+            "fechaInicio": "2023-08-30",
+            "celebracion": "SANTA ROSA DE LIMA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 119,
+            "fechaInicio": "2023-08-30",
+            "fechaFin": "2023-08-31",
+            "celebracion": "SAN RAMÓN NONATO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 120,
+            "fechaInicio": "2023-08-30",
+            "celebracion": "SAN JERÓNIMO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 121,
+            "fechaInicio": "2023-08-31",
+            "celebracion": "SUBIDA DE LA VIRGEN DE MERCEDES A SU CAMERINO.",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 122,
+            "fechaInicio": "2023-09-08",
+            "celebracion": "VIRGEN LA MERCED",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 123,
+            "fechaInicio": "2023-09-10",
+            "celebracion": "ELECCIÓN DE INDIA BONITA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 124,
+            "fechaInicio": "2023-09-10",
+            "celebracion": "SAN NICOLÁS DE TOLENTINO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 125,
+            "fechaInicio": "2023-09-19",
+            "celebracion": "BAJADA DE LA IMAGEN DE SAN MIGUEL ARCÁNGEL",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 126,
+            "fechaInicio": "2023-09-20",
+            "celebracion": "BAJADA DE SAN JERÓNIMO, PATRONO POPULAR DE MASAYA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 127,
+            "fechaInicio": "2023-09-24",
+            "celebracion": "VIRGEN DE LA MERCED",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 128,
+            "fechaInicio": "2023-09-29",
+            "celebracion": "SAN RAFAEL",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 129,
+            "fechaInicio": "2023-09-29",
+            "celebracion": "SAN JERÓNIMO EN SUTIAVA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 130,
+            "fechaInicio": "2023-09-30",
+            "celebracion": "DÍA PRINCIPAL DE SAN JERÓNIMO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 131,
+            "fechaInicio": "2023-09-30",
+            "celebracion": "MASAYA, CAPITAL DEL FOLKLORE",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 132,
+            "fechaInicio": "2023-09-30",
+            "celebracion": "FIESTA DE SAN JERÓNIMO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 133,
+            "fechaInicio": "2023-09-30",
+            "celebracion": "SAN JERÓNIMO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 134,
+            "fechaInicio": "2023-09-30",
+            "celebracion": "A SAN JERÓNIMO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 135,
+            "fechaInicio": "2023-10-01",
+            "celebracion": "VIRGEN DEL ROSARIO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 136,
+            "fechaInicio": "2023-10-03",
+            "celebracion": "SANTA TERESITA DE JESÚS",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 137,
+            "fechaInicio": "2023-10-04",
+            "celebracion": "SAN FRANCISCO DE ASÍS",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 138,
+            "fechaInicio": "2023-10-06",
+            "fechaFin": "2023-10-08",
+            "celebracion": "PREPARACIÓN DE LA PEAÑA DE SAN JERÓNIMO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 139,
+            "fechaInicio": "2023-10-07",
+            "celebracion": "VIRGEN DEL ROSARIO Y OCTAVA DE SAN JERÓNIMO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 140,
+            "fechaInicio": "2023-10-09",
+            "celebracion": "SAN DIONISIO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 141,
+            "fechaInicio": "2023-10-15",
+            "celebracion": "SANTA TERESA DE ÁVILA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 142,
+            "fechaInicio": "2023-10-15",
+            "celebracion": "SANTA TERESA DE ÁVILA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 143,
+            "fechaInicio": "2023-10-18",
+            "celebracion": "SAN LUCAS",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 144,
+            "fechaInicio": "2023-10-24",
+            "celebracion": "SAN RAFAEL ARCÁNGEL",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 145,
+            "fechaInicio": "2023-10-28",
+            "celebracion": "SAN JUDAS TADEO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 146,
+            "fechaInicio": "2023-11-02",
+            "celebracion": "DÍA DE LOS DIFUNTOS",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 147,
+            "fechaInicio": "2023-11-04",
+            "celebracion": "SAN CARLOS BORROMEO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 148,
+            "fechaInicio": "2023-11-15",
+            "fechaFin": "2023-11-17",
+            "celebracion": "VELA Y PROCESIÓN DE LA CRUZ DEL SEÑOR DE LOS MILAGROS",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 149,
+            "fechaInicio": "2023-11-17",
+            "celebracion": "SAN DIEGO DE ALCALÁ, DÍA PRINCIPAL",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 150,
+            "fechaInicio": "2023-11-19",
+            "celebracion": "DÍA DE LA CULTURA GARÍFUNA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 151,
+            "fechaInicio": "2023-11-25",
+            "fechaFin": "2023-11-26",
+            "celebracion": "SANTA CATALINA DE ALEJANDRÍA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 152,
+            "fechaInicio": "2023-12-04",
+            "celebracion": "SANTA BÁRBARA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 153,
+            "fechaInicio": "2023-12-05",
+            "celebracion": "VESTIDA DE LA VIRGEN DEL TRONO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 154,
+            "fechaInicio": "2023-12-06",
+            "celebracion": "LAVADA DE LA PLATA DE LA VIRGEN DE CONCEPCIÓN DEL TRONO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 155,
+            "fechaInicio": "2023-12-08",
+            "celebracion": "DÍA DE LA INMACULADA CONCEPCIÓN DE MARÍA, PATRONA DE NICARAGUA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 156,
+            "fechaInicio": "2023-12-11",
+            "fechaFin": "2023-12-12",
+            "celebracion": "VIRGEN DE GUADALUPE",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 157,
+            "fechaInicio": "2023-12-12",
+            "celebracion": "VIRGEN DE GUADALUPE",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 158,
+            "fechaInicio": "2023-12-13",
+            "celebracion": "SANTA LUCÍA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 159,
+            "fechaInicio": "2023-12-16",
+            "celebracion": "NOVENARIO DEL NIÑO DIOS",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 160,
+            "fechaInicio": "2023-12-17",
+            "celebracion": "GRITERÍA A LA INMACULADA CONCEPCIÓN DE MARÍA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 161,
+            "fechaInicio": "2023-12-20",
+            "celebracion": "ROMERÍA DE LA VIRGEN DEL HATO",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 162,
+            "fechaInicio": "2023-12-23",
+            "celebracion": "LA GIGANTONA NOCTURNA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 163,
+            "fechaInicio": "2023-12-24",
+            "celebracion": "NIÑO DIOS CELEBRACIÓN NACIONAL",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 164,
+            "fechaInicio": "2023-12-30",
+            "celebracion": "RETORNO DE LA VIRGEN DE HATO AL EL VIEJO CHINANDEGA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        },
+        {
+            "id": 165,
+            "fechaInicio": "2023-12-31",
+            "celebracion": "SAN SILVESTRE PAPA",
+            "regiones": [],
+            "descripcion": "",
+            "feriado": false
+        }
+    ]
