@@ -1,11 +1,11 @@
 import './globals.css';
 import type { Metadata } from 'next';
-import { Inter } from 'next/font/google';
+// import { Inter } from 'next/font/google';
 import Link from 'next/link';
 import styles from './layout.module.css';
 import classNames from 'classnames';
 
-const inter = Inter({ subsets: ['latin'] });
+// const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'Festividades Nicaragua',
@@ -19,7 +19,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={classNames(inter.className, 'bg-white')}>
+      <body className={classNames('bg-white')}>
         {/* Encabezado */}
         <header className={styles.backgroundHeader}>
           <div className={styles.customShape}>
